@@ -1,33 +1,28 @@
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
-
 # Project Title
 
-Final project for the Building AI course
+Final project for the Building AI course // INMOAI
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+My project is going to be a performance between a friend and me. We want to create an AI which can modify the prices of the buildings. These prices will be affected by the city, the distance to the beach and square meters. We want to make that with the same example of the buildings in the Building AI course. We live in South Europe and the price of the buildings change a lot of times in a year, mostly in summer. So, this is a good tool to obtain the most competitive and real prices. 
 
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* I want to solve the volatility of the prices in the buildings.
+* This problem is higher every year. 
+* I love the idea that young people can buy a house. 
+* Because we are living a bad situation in the prices of the houses for approx. 10 years ago in Europe.
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The users can choose every characteristic that they want. Moreover, the prices are competitive and more stable.
 
 Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
