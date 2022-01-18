@@ -1,6 +1,6 @@
 ###THIS IS A TEST####
 
-# Project Title
+# Test 1
 
 Final project for the Building AI course // INMOAI
 
